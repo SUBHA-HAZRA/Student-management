@@ -1,0 +1,6 @@
+.venv
+__pycache__
+students.db
+student_photos
+logs
+pyvenv.cfg

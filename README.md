@@ -38,8 +38,6 @@ student-management-system/
    python main.py
    ```
 
-## 📸 Screenshots
-(Add screenshots of the GUI here)
 
 
 
